@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![BooDeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=BooDeer)](https://github.com/BooDeer/github-readme-stats)
 
 <!--
 **BooDeer/BooDeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
