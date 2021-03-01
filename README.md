@@ -1,12 +1,11 @@
 ## Hi there, I'm Bood', currently an IT student. I enjoy coding and discovering new technologies. 👋
+
 <br />
----
 <div align=center>
-  <img src="https://cdn.discordapp.com/attachments/466393845559459850/815987547183906846/dcoginl-d97ef0f9-9913-4791-a87d-2eb4151c6845.gif">
-  <p>↑開発方針↑</p>
+  <img src="https://www.deviantart.com/va2o/art/Tsuyu-Asui-Animated-GIF-766675569">
 </div>
 <br />
----
+
 ### Tools and Languages I use:
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://en.cppreference.com/w/c/language)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
