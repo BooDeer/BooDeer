@@ -22,7 +22,7 @@
 
 ---
 
-[![BooDeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=BooDeer&show_icons=true&theme=darcula)](https://github.com/BooDeer)
+[![BooDeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=BooDeer&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BooDeer&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
