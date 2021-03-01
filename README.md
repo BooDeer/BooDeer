@@ -2,7 +2,7 @@
 
 <br />
 <div align=center>
-  <img src="https://www.deviantart.com/va2o/art/Tsuyu-Asui-Animated-GIF-766675569">
+  <img src="asui.gif">
 </div>
 <br />
 
