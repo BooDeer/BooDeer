@@ -1,4 +1,5 @@
-## Hi there, I'm Bood', currently an IT student. I enjoy coding and discovering new technologies. 👋
+## Hi there, I'm BooDeer.
+## I am currently an IT student. I enjoy coding and discovering new technologies. 👋
 
 <br />
 <div align=center>
